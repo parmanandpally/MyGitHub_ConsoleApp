@@ -10,6 +10,8 @@ namespace MyGitHub_ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("C# Console App Project");
+            Console.WriteLine("Implemented using GitHub Repository");
         }
     }
 }
