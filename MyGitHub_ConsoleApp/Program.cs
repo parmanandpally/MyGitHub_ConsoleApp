@@ -18,5 +18,9 @@ namespace MyGitHub_ConsoleApp
         {
             return l * b;
         }
+        static double PerimeterOfRectangle(double l, double b)
+        {
+            return 2 * (l+b);
+        }
     }
 }
